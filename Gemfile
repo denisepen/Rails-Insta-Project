@@ -31,6 +31,12 @@ gem 'devise'
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
+gem 'coffee-script-source'
+
+gem 'execjs'
+
+
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
